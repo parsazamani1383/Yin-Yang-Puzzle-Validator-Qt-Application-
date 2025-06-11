@@ -25,13 +25,19 @@ The puzzle enforces the following two rules:
 
 ---
 
-## 🖼 Example
+## 🧩 Example
 
-| Valid State Display | Description |
-|---------------------|-------------|
-| ![Example Screenshot](screenshot.png) | Each cell is either black (B), white (W), or empty (-). |
+Below is an example of a valid Yin-Yang puzzle configuration displayed by the application:
 
-> Note: Add your own screenshot as `screenshot.png` in the root directory for display.
+![Yin-Yang Puzzle Screenshot](screenshot.png)
+
+Each 4×4 grid represents a valid puzzle configuration, where:
+
+- ⚪️ **White cells** represent cells colored white.
+- ⚫️ **Black cells** represent cells colored black.
+- ⬜️ **(Not shown here)** Light gray cells represent inactive or unassigned positions.
+
+You can click on any configuration in the list to open a detailed view like the one above.
 
 ---
 
