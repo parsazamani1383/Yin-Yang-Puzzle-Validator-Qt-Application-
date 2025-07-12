@@ -66,3 +66,13 @@ You can click on any configuration in the list to open a detailed view like the 
    ```bash
    git clone https://github.com/parsazamani1383/yin-yang-validator.git
    cd yin-yang-validator
+
+
+## 🙋‍♂️ About Me
+
+**👨‍💻 Name:** Parsa Zamani  
+**🎓 Field of Study:** Computer Engineering  
+**🧠 Interests:** Artificial Intelligence, Machine Learning, Backend Development, Algorithm Design  
+**📍 Location:** Iran  
+**📫 Email:** parsazamani.uok@gmail.com  
+**🐙 GitHub:** [github.com/parsazamani1383](https://github.com/parsazamani1383)
